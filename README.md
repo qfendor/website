@@ -1,6 +1,14 @@
-Simple Python Web Server
+The York Expedition
 ========================
 
-This is the source code for howCode's simple Python Web Server.
+*Travel media made specifically for people of color and women is really popular on social media right now * and for a reason. People want to be informed about the places they travel to before they go, so as to avoid any possible safety risks. We want to build a place where a user can find this kind of information in one place instead of having to sift through many accounts on many social media platforms.
 
-You can watch the video that accompanies this source code here: https://youtu.be/hFNZ6kdBgO0
+Our application will visualize data revolving around hate, race-based, or gender-based crimes to inform the user of possible areas that they should be more cautious about or avoid altogether to facilitate a more convenient and safer travel experience.
+
+We will also suggest minority-owned businesses and minority-friendly experiences to our users to support these kinds of establishments.
+
+In order to do all of this we will be relying on Twitter connotation data about different places and experiences, as well as statistics about hate crimes, and minority businesses.
+
+We built it by using HTML and CSS templates and then modifying them to fit our needs.
+
+Ideally, we would have used Google Maps API, FBI crime statistics, and Twitter sentiments to visualize the data for our users.
